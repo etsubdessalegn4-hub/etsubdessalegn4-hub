@@ -1,6 +1,6 @@
 # Hi, I'm Etsub Dessalegn Wonbearga
 
-I this are some of the project that i worked on
+This are some of the project that i worked on
 
 ## Projects
 
@@ -23,4 +23,4 @@ I this are some of the project that i worked on
 
 Completed the **Internet of Things (IoT) Online Internship** at [Emertxe](https://www.emertxe.com) (9 August to 16 September 2026). This project was my capstone for the internship, and the certificate names it: *Edge AI Based Smart EV Charging Station Optimizer*.
 
-![Emertxe IoT internship certificate](docs/emertxe-iot-internship-certificate.jpg)
+![Emertxe IoT internship certificate](https://raw.githubusercontent.com/etsubdessalegn4-hub/EV_charging_station_iot/main/docs/emertxe-iot-internship-certificate.jpg)
