@@ -1,6 +1,6 @@
 # Hi, I'm Etsub Dessalegn Wonbearga
 
-I build embedded and IoT systems, from bare-metal firmware to cloud dashboards, and I like designing circuits from the transistor level up.
+I this are some of the project that i worked on
 
 ## Projects
 
