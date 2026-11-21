@@ -21,4 +21,6 @@ I build embedded and IoT systems, from bare-metal firmware to cloud dashboards, 
 
 ## Certification
 
-Completed the Internet of Things (IoT) Online Internship at [Emertxe](https://www.emertxe.com) (9 August to 16 September 2026).
+Completed the **Internet of Things (IoT) Online Internship** at [Emertxe](https://www.emertxe.com) (9 August to 16 September 2026). This project was my capstone for the internship, and the certificate names it: *Edge AI Based Smart EV Charging Station Optimizer*.
+
+![Emertxe IoT internship certificate](docs/emertxe-iot-internship-certificate.jpg)
